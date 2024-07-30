@@ -15,7 +15,7 @@ void main() async{
   Platform.isAndroid?
   await Firebase.initializeApp(
     options:const FirebaseOptions(
-      apiKey: 'AIzaSyBYwKwf_iokujx2618ESOl377Ph9-51BC4',
+      apiKey: 'Api-key',
        appId: '1:418894605285:android:f69e9c29af79566c0d1d0c',
         messagingSenderId: '418894605285',
          projectId: 'barberapp-dcbcc')
